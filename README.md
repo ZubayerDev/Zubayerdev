@@ -8,16 +8,6 @@
 - 🔭 I’m currently working on **Techcesso Invetory**
 
 - 🌱 I’m currently learning **Vue Js**
-<h1 align="center">Hi 👋, I'm Zubayer</h1>
-<h3 align="center">A Passionate Full Stack Developer From Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zubayerdev&label=Profile%20views&color=0e75b6&style=flat" alt="zubayerdev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zubayerdev" alt="zubayerdev" /></a> </p>
-
-- 🔭 I’m currently working on **Techcesso Invetory**
-
-- 🌱 I’m currently learning **Vue Js**
 
 - 👯 I’m looking to collaborate on **Wordpress Theme Development**
 
