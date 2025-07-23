@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zubayerdev" alt="zubayerdev" /></a> </p>
 
-- 🔭 I’m currently working on **Techcesso Inventory**
+- 🔭 I’m currently working on **SmartDataSoft**
 
-- 🌱 I’m currently learning **Vue Js**
+- 🌱 I’m currently learning **Javascript/Typescript**
 
 - 👯 I’m looking to collaborate on **Wordpress Theme Development**
 
